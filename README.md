@@ -1,4 +1,4 @@
-# Python example code for the George B. Moody PhysioNet Challenge 2024
+# shenhai_dl's code for the George B. Moody PhysioNet Challenge 2024
 
 ## What's in this repository?
 
